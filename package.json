@@ -1,0 +1,16 @@
+{
+  "name": "swapi-express-redis",
+  "version": "1.0.0",
+  "description": "swapi epxerss redis",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "edwin tinoco",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "redis": "^3.0.2"
+  }
+}
